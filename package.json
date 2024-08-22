@@ -1,7 +1,7 @@
 {
   "name": "@citizensadvice/priority-nav",
   "title": "priority-nav",
-  "version": "1.4.0",
+  "version": "1.4.1",
   "main": "dist/priority-nav.js",
   "description": "Priority+ pattern navigation that hides menu items if they don't fit on screen.",
   "author": {
@@ -17,7 +17,7 @@
   ],
   "repository": {
     "type": "git",
-    "url": "https://github.com/citizensadvice/priority-navigation.git"
+    "url": "https://github.com/LOUISINTERNET/priority-navigation"
   },
   "keywords": [
     "priority+",
